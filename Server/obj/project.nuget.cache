@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GotoV3opLmaTZ4itCHDtuiVLybA5NsdALLM4aYTUY5Aqw88RZ/kCYs/XuUcJ/Ksfaj3NHGrjeXGXLlrBQ+Jog==",
+  "success": true,
+  "projectFilePath": "/Users/isabellepeskett/Playground/Sandbox/SignalRWebPack/SignalRWebPack.csproj",
+  "expectedPackageFiles": [
+    "/Users/isabellepeskett/.nuget/packages/microsoft.typescript.msbuild/4.2.4/microsoft.typescript.msbuild.4.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
